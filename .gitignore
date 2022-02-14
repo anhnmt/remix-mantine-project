@@ -1,0 +1,10 @@
+node_modules
+.idea
+.yarn
+
+/.cache
+/build
+/public/build
+.env
+
+*.log
